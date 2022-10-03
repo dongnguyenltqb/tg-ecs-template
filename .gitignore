@@ -1,0 +1,5 @@
+**/**/.terragrunt-cache
+**/**/.terraform
+vars/*.tfvars
+ssh-keys
+ovpn

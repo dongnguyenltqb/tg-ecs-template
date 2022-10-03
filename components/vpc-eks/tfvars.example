@@ -1,0 +1,2 @@
+cluster_name = "basic"
+jump_pubkey  = "your_ssh_pub_key"
